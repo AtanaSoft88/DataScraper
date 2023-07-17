@@ -1,7 +1,7 @@
 ﻿namespace DataScraper.Constants;
 public static class GlobalConstants
 {
-    public const string FilePath = @"./Pdf/sampleDocument.pdf";
+    public const string FilePath = @"../../../Pdf/sampleDocument.pdf";
 
     //Product errors
     public const string ProductsNotAvailable = "There was no products found.";
